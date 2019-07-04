@@ -7,7 +7,7 @@ import instagram from '../img/social/instagram.svg'
 import twitter from '../img/social/twitter.svg'
 import vimeo from '../img/social/vimeo.svg'
 import linkedin from '../img/social/linkedin.svg'
-import logoWhite from '../img/orchid-White.png'
+import logoWhite from '../img/orchid-white.png'
 
 const Footer = class extends React.Component {
   render() {
